@@ -40,6 +40,7 @@ You can customize the animation by tweaking the following constants in the code:
 1. Inspired by retro-style gaming animations.
 2. Background gradient idea from modern UI design trends.
 
+
 Screenshot: Falling Rain Game
 
 ![Falling Rain Game](https://drive.google.com/uc?id=1wEqT4IWQdybs88ccp9VpEVOGoldg0Owg)

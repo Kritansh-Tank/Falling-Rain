@@ -40,4 +40,8 @@ You can customize the animation by tweaking the following constants in the code:
 1. Inspired by retro-style gaming animations.
 2. Background gradient idea from modern UI design trends.
 
+## 📸 Demo
+
+[Dynamic rain trails with smooth color gradients running on a grid.](https://fallingrain.netlify.app/)
+
 ![Falling Rain Game](https://drive.google.com/uc?id=1wEqT4IWQdybs88ccp9VpEVOGoldg0Owg)

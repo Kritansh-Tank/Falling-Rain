@@ -19,3 +19,23 @@ A visually stunning falling rain animation implemented in React.js, featuring sm
 4. Responsive Design:
     1. Fully responsive layout with a game-like feel.
     2. Beautiful gradient background to enhance the visual experience.
+  
+## ⚙️ Configuration
+
+You can customize the animation by tweaking the following constants in the code:
+
+1. GRID_ROWS: Number of rows in the grid (default: 15).
+2. GRID_COLUMNS: Number of columns in the grid (default: 20).
+3. TRAIL_LENGTH: Number of cells in each trail (default: 6).
+4. FRAME_DELAY: Speed of animation (default: 100ms per frame).
+
+## 🖌️ Technologies Used
+
+1. React.js: For building the dynamic UI.
+2. Styled-Components: For modular and responsive styling.
+3. JavaScript: Logic for animations and randomization.
+
+## 🙌 Acknowledgements
+
+1. Inspired by retro-style gaming animations.
+2. Background gradient idea from modern UI design trends.
